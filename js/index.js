@@ -1,4 +1,3 @@
-{
-    console.log(nome);
-    var nome = 'Brenno';
+const soma = (a, b) => {
+    
 }
